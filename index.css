@@ -58,7 +58,7 @@ img{
 @media screen and (max-width:688px) {
     .skewed{
         display: block;
-        width: 26em;
+        width: 20em;
     }
     .img, .text{
         width: 100%;
